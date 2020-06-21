@@ -7,6 +7,9 @@ This is a 4 week course where you will be introduced to Keras and use it to impl
 Learnt the following concepts:
 
 Week1: Working with Google Colab,Introduction to Keras that uses Tensorflow as backend
+
 Week2: Working with MNIST Dataset using ANNs,using callbacks to control training of neural network
+
 Week3: Working with MNIST Dataset using CNNs
+
 Week4: Working with complex Datasets
